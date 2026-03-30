@@ -33,5 +33,6 @@
   <a href="https://www.instagram.com/omar_gbril/">Instagram</a> ·
   <a href="https://discord.com/users/AutumnNymph#9288">Discord</a>
 </p>
-### Fun Fact
-I have tinnitus
+
+### fun fact
+i have tinnitus
