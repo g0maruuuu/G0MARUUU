@@ -30,7 +30,6 @@
 <p align="center">
   <a href="www.linkedin.com/in/gabriel-tarikh-0157492b7">LinkedIn</a> ·
   <a href="https://www.instagram.com/omar_gbril/">Instagram</a> ·
-  <a href="https://discord.com/users/AutumnNymph#9288">Discord</a>
 </p>
 
 ### fun fact
