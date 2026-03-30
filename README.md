@@ -22,14 +22,13 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
 </div>
 
 ### Social Media Links
 <p align="center">
-  <a href="www.linkedin.com/in/gabriel-tarikh-0157492b7">Linked</a> ·
+  <a href="www.linkedin.com/in/gabriel-tarikh-0157492b7">LinkedIn</a> ·
   <a href="https://www.instagram.com/omar_gbril/">Instagram</a> ·
   <a href="https://discord.com/users/AutumnNymph#9288">Discord</a>
 </p>
